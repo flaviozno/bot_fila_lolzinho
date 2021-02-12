@@ -1,1 +1,1 @@
-# bot_fila_lolzinho
+Caso tu queira tornar esse arquivo um .exe eh so rodar o pyinstaller.
